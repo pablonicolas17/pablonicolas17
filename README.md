@@ -1,16 +1,20 @@
-### Hi there 👋
+## 👋 Hola! Soy Pablo 
+Actualmente soy Desarrollador Full-Stack, futuro Licenciado en Programación, con un enfoque firme en el desarrollo Backend.
 
-<!--
-**pablonicolas17/pablonicolas17** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+## 💼 Mi Experiencia en Desarrollo de Software
 
-Here are some ideas to get you started:
+- ✅ Más de 1 año de experiencia profesional.
+- ✅ Metodologías de trabajo Agiles
+- ✅ Amplio conocimiento en pruebas de aplicaciones web y APIs.
+- ✅ Habilidad para verificar y manipular datos en Bases de Datos SQL Server y Oracle.
+- ✅ Desarrollo de Casos de Prueba.
+- ✅ Identificación, reporte, seguimiento y reparación de Bugs.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 🛠️ Herramientas y Habilidades
+#### 📊 *Colaboración y Comunicación*: Slack, Teams, Meet, Zoom, Discord.
+#### 📅 *Gestión de Proyectos*: Jira, Trello, Taiga. 
+#### 🛠️ *Herramientas Avanzadas*:  VisualStudio, IntellijIDEA, HeidiSQL, MongoDB Compass, GitHub, Git, Docker, Postman, SQL Server .
+
+¡Conéctame para hablar sobre oportunidades de colaboración, desarrollo profesional y cualquier cosa relacionada con el mundo de la Tecnología!
+
+📧 Contacto: pablonicolas17@gmail.com
