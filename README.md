@@ -1,7 +1,7 @@
 <h1 align="rigth">Hi 👋, I'm Pablo</h1>
 <h3 align="rigth">A enthusiastic fullstack developer and future graduate in Computer Programming from Buenos Aires</h3>
 
-- 🔭 I’m currently working on **Bech-IT**
+- 🔭 I’m currently working on **BechIT**
 
 - 🌱 I’m currently learning **React, C#, TypeScript**
 
