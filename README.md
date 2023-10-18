@@ -74,6 +74,7 @@
 <h4 align="left">Static:</h4>
 <p aling="left">
 <a href="https://nextjs.org/" target="_blank" rel="noreferrer"> <img src="https://cdn.worldvectorlogo.com/logos/nextjs-2.svg" alt="nextjs" width="30" height="30"/></a>
-</p> -->
+</p> 
 
 ![Pablo's GitHub stats](https://github-readme-stats.vercel.app/api?username=pablonicolas17&theme=github_dark&show_icons=true)
+-->
