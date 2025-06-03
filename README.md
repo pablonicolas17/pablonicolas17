@@ -1,8 +1,8 @@
 <h2 align="rigth">Hi 👋, I'm Pablo</h2>
 <h4 align="rigth">A enthusiastic fullstack developer and future graduate in Computer Programming from Buenos Aires</h4>
 
-- 🔭 I’m currently working on **Freelancer** in **LISIT**
-- 🌱 I’m currently learning **React, C#, TypeScript**
+- 🔭 I’m currently working on **Software Developer** in **MercadoLibre**
+- 🌱 I’m currently learning **Java, React, C#, TypeScript**
 - 📫 How to reach me **pablonicolas17@gmail.com**
 
 <h4 align="left">Connect with me:</h4>
